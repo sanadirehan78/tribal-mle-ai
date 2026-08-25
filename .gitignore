@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# AI models
+models/*
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# Android
+.gradle/
+build/
+local.properties
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
