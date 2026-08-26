@@ -1,0 +1,3 @@
+Placeholder for TranslationApp
+
+Add your Android project files here (e.g., a Gradle project or Android Studio project).
