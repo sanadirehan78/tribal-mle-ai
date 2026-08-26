@@ -21,7 +21,8 @@ Hindi → Santali
 ## Technology
 
 - Python
-- AI / NLP
+- Artificial Intelligence (AI)
+- Natural Language Processing (NLP)
 - IndicTrans2
 - IndicConformer
 - Indic Parler-TTS
