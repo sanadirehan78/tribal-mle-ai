@@ -1,1 +1,87 @@
+Name: Aditya
+Role: Android Team Member
+Date: 27 August 2026
 
+One thing I learned:
+I learned how to plan the basic screens of an Android app before starting development, and how to create and push project files to my own Git branch.
+
+Day-1 setup:
+- Planned Home, Translate, and Lesson/Flashcard screens.
+- Listed the required buttons and input/result areas.
+- Did not start building the Android app, as instructed.
+
+
+Day-1 Screen Ideas
+
+1. HOME SCREEN
+- App title: Hindi → Santali Translator
+- Translate button
+- Lesson / Flashcard button
+┌─────────────────────────┐
+│   Hindi → Santali       │
+│      Translator         │
+│                         │
+│                         │
+│   ┌─────────────────┐   │
+│   │     Translate   │   │
+│   └────────────────────┘   │
+│                         │
+│   ┌──────────���──────┐   │
+│   │ Lesson/Flashcard│   │
+│   └─────────────────┘   │
+│                         │
+└─────────────────────────┘
+
+
+2. TRANSLATE SCREEN
+- Hindi input box
+- Translate button
+- Santali result area
+- Listen button
+┌─────────────────────────┐
+│       Translate         │
+│                         │
+│ Hindi Input             │
+│ ┌─────────────────────┐ │
+│ │ Enter Hindi text... │ │
+│ └─────────────────────┘ │
+│                         │
+│ ┌─────────────────────┐ │
+│ │      Translate      │ │
+│ └─────────────────────┘ │
+│                         │
+│ Santali Result          │
+│ ┌─────────────────────┐ │
+│ │ Santali translation │ │
+│ └─────────────────────┘ │
+│                         │
+│ ┌─────────────────────┐ │
+│ │ 🔊 Listen           │ │
+│ └─────────────────────┘ │
+└─────────────────────────┘
+
+
+3. LESSON / FLASHCARD SCREEN
+- Lesson / word card area
+- Hindi word
+- Santali meaning
+- Listen button
+- Next button
+┌─────────────────────────┐
+│    Lesson / Flashcard   │
+│                         │
+│      ┌─────────────┐    │
+│      │   नमस्ते    │    │
+│      │             │    │
+│      │   Santali   │    │
+│      │   meaning   │    │
+│      └─────────────┘    │
+│                         │
+│   ┌─────────────────┐   │
+│   │ 🔊 Listen       │   │
+│   └─────────────────────┘   │
+│                         │
+│   ┌─────────────────┐   │
+│   │      Next       │   │
+│   └─────────────────────┘   │
+└─────────────────────────┘
